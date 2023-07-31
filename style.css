@@ -1,0 +1,51 @@
+html {
+    background-color: azure;
+    font-family: 'Handjet', cursive;
+}
+
+#navbar {
+    height: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+#img {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+#text {
+    text-align: center;
+}
+
+a:hover {
+    background-color: #04AA6D;
+    color: white;
+}
+
+a {
+    color: black;
+    border: 3px solid #04AA6D;
+    padding: 5px;
+    text-decoration: none;
+    margin: 10px;
+}
+
+img {
+    border: 3px solid white;
+    margin-top: 100px;
+    width: 75%;
+}
+
+h1 {
+    font-size: 50px;
+    margin-bottom: 0;
+}
+
+h2 {
+    margin-top: 0;
+}
+
+
+
